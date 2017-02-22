@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private" enabled="true" name="-">private</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private void method" enabled="true" name="-m">private void ${cursor}()
 
-	${cursor}
+	${cursor} minghie
 
 }</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private string method" enabled="true" name="-sm">private String ${cursor}(){
 
