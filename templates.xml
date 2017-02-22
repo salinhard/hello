@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private" enabled="true" name="-">private</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private void method" enabled="true" name="-m">private void ${cursor}()
+
+	${cursor}
+
+}</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private string method" enabled="true" name="-sm">private String ${cursor}(){
+
+	String result = "";
+
+		${cursor}
+
+	return result;
+}</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private string method" enabled="true" name="cio">private String ${cursor}(){
+     
+    String result = "";
+
+        ${cursor}
+
+    return result;
+    
+ }</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="method" enabled="true" name="m">public void ${cursor}() {
+
+	${cursor}
+
+}</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="public static void main" enabled="true" name="main">public static void main( String[] args ) {
+
+	${cursor}
+
+}</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="print" enabled="true" name="print">System.out.print("${class}");</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="private" enabled="true" name="si">private String ${cursor}(){
+     
+    String result = "";
+
+        ${cursor}
+
+    return result;
+    
+ }</template><template autoinsert="true" context="io.emmet.eclipse.templates.html" deleted="false" description="public string method" enabled="true" name="sm">public String ${cursor}(){
+
+	String result = "";
+
+		${cursor}
+
+	return result;
+}</template></templates>
